@@ -1,0 +1,12 @@
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\bin\Debug\GroceryStore.exe.config
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\bin\Debug\GroceryStore.exe
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\bin\Debug\GroceryStore.pdb
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csprojAssemblyReference.cache
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Form1.resources
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Properties.Resources.resources
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.GenerateResource.cache
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.exe
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.pdb
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\bin\Debug\Inventory.mdf
+C:\Users\robert.wiscount\Desktop\GroceryStore\GroceryStore\bin\Debug\Inventory_log.ldf
