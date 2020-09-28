@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GroceryStore"
+    "\\College Help",
+    "\\College Help\\Training Projects",
+    "\\College Help\\Training Projects\\Shopping Cart",
+    "\\College Help\\Training Projects\\Shopping Cart\\Robert Wiscount"
   ],
-  "SelectedNode": "\\GroceryStore\\bin",
+  "SelectedNode": "\\College Help\\Training Projects\\Shopping Cart\\Robert Wiscount\\GroceryStore.sln",
   "PreviewInSolutionExplorer": false
 }
