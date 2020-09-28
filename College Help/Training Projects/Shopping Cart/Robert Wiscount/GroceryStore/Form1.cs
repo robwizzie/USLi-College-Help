@@ -73,7 +73,7 @@ namespace GroceryStore
         private void ComboBoxFormat(object sender, ListControlConvertEventArgs e)
         {
           //  //string Name = ((InventoryDataSet)e.ListItem).Name;
-            //string Price = ((InventoryDataSet)e.ListItem).Price;
+          //  //string Price = ((InventoryDataSet)e.ListItem).Price;
             //e.Value = Name + " | Price: " + Price;
         }
 
