@@ -86,6 +86,7 @@
             this.listPrice.Name = "listPrice";
             this.listPrice.Size = new System.Drawing.Size(120, 212);
             this.listPrice.TabIndex = 2;
+            this.listPrice.SelectedIndexChanged += new System.EventHandler(this.listPrice_SelectedIndexChanged);
             // 
             // label2
             // 
