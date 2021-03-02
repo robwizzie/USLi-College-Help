@@ -1,0 +1,10 @@
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\bin\Debug\C Sharp Operators.exe.config
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\bin\Debug\C Sharp Operators.exe
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\bin\Debug\C Sharp Operators.pdb
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C Sharp Operators.csprojAssemblyReference.cache
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C_Sharp_Operators.Form1.resources
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C_Sharp_Operators.Properties.Resources.resources
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C Sharp Operators.csproj.GenerateResource.cache
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C Sharp Operators.csproj.CoreCompileInputs.cache
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C Sharp Operators.exe
+C:\Users\robert.wiscount\Desktop\C Sharp Operators\C Sharp Operators\obj\Debug\C Sharp Operators.pdb
