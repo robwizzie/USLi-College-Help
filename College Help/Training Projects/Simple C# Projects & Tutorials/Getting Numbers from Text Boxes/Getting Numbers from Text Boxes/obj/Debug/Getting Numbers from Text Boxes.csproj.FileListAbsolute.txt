@@ -1,0 +1,9 @@
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\bin\Debug\Getting Numbers from Text Boxes.exe.config
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\bin\Debug\Getting Numbers from Text Boxes.exe
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\bin\Debug\Getting Numbers from Text Boxes.pdb
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\obj\Debug\Getting_Numbers_from_Text_Boxes.Form1.resources
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\obj\Debug\Getting_Numbers_from_Text_Boxes.Properties.Resources.resources
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\obj\Debug\Getting Numbers from Text Boxes.csproj.GenerateResource.cache
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\obj\Debug\Getting Numbers from Text Boxes.csproj.CoreCompileInputs.cache
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\obj\Debug\Getting Numbers from Text Boxes.exe
+C:\Users\robert.wiscount\Desktop\Getting Numbers from Text Boxes\Getting Numbers from Text Boxes\obj\Debug\Getting Numbers from Text Boxes.pdb
