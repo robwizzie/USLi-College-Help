@@ -1,0 +1,10 @@
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\bin\Debug\Custom Browser.exe.config
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\bin\Debug\Custom Browser.exe
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\bin\Debug\Custom Browser.pdb
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom_Browser.Form1.resources
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom_Browser.Properties.Resources.resources
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom Browser.csproj.GenerateResource.cache
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom Browser.csproj.CoreCompileInputs.cache
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom Browser.exe
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom Browser.pdb
+C:\Users\robert.wiscount\Desktop\Custom Browser\Custom Browser\obj\Debug\Custom Browser.csprojAssemblyReference.cache
