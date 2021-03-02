@@ -1,0 +1,9 @@
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\bin\Debug\Age Operators.exe.config
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\bin\Debug\Age Operators.exe
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\bin\Debug\Age Operators.pdb
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\obj\Debug\Age_Operators.Form1.resources
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\obj\Debug\Age_Operators.Properties.Resources.resources
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\obj\Debug\Age Operators.csproj.GenerateResource.cache
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\obj\Debug\Age Operators.csproj.CoreCompileInputs.cache
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\obj\Debug\Age Operators.exe
+C:\Users\robert.wiscount\Desktop\Age Operators\Age Operators\obj\Debug\Age Operators.pdb
