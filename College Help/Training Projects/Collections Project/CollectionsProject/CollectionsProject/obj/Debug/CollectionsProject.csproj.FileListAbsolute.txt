@@ -1,0 +1,10 @@
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.csprojAssemblyReference.cache
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.Form1.resources
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.Properties.Resources.resources
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.csproj.GenerateResource.cache
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.csproj.CoreCompileInputs.cache
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\bin\Debug\CollectionsProject.exe.config
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\bin\Debug\CollectionsProject.exe
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\bin\Debug\CollectionsProject.pdb
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.exe
+C:\Users\robert.wiscount\Desktop\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.pdb
